@@ -2,9 +2,13 @@
 img{
     width: 200px;
 }
+
+html{
+    background: url(https://media.giphy.com/media/IHXBDXnTxz9PG/giphy.gif);
+}
+
 body {
     text-align:center;
     font-family: "Arial";
-    background: white;
     color: purple;
 }
